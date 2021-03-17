@@ -1,0 +1,27 @@
+﻿DuplicatesReport 01/30/2021
+Finding Duplicates in: D
+These files are the same length: 
+   D:\Photos\1980's Photos\1988 - JP & Liz 2.jpg   1975337
+   D:\Photos\1980's Photos\1988 - Jp & Liz.jpg   1975337
+----------------------------------------
+   D:\Photos\1997 Photos\1997 03 Mar\1997-03-30 Easter with Whitneys 26- carly liz.jpg   149790
+   D:\Photos\1997 Photos\1997 03 Mar\1997-03-30 Easter with Whitneys 28- shelly.jpg   149790
+----------------------------------------
+   D:\Photos\1999 Photos\1999 09 Sep\1999-09-12 Redskins vs Cowboys game 6a- john ownby scott mills.jpg   1535869
+   D:\Photos\1999 Photos\1999 09 Sep\1999-09-12 Redskins vs Cowboys game 6b- john ownby scott mills.jpg   1535869
+----------------------------------------
+   D:\Photos\1999 Photos\1999 10 Oct\1999-10-22 lexie just born 14.jpg   1519255
+   D:\Photos\1999 Photos\1999 10 Oct\1999-10-22 lexie just born 3.jpg   1519255
+----------------------------------------
+D:\Home Videos\1994 Home Videos
+D:\Home Videos\1995 Home Videos
+D:\Home Videos\1996 Home Videos
+D:\Home Videos\1997 Home Videos
+D:\Home Videos\1998 Home Videos
+D:\Home Videos\2004 Home Videos
+D:\Home Videos\2006 Home Videos
+D:\Home Videos\2007 Home Videos
+D:\Home Videos\2008 Home Videos
+D:\Home Videos\2009 Home Videos
+D:\Home Videos\2012 Home Videos
+D:\Home Videos\2015 Home Videos

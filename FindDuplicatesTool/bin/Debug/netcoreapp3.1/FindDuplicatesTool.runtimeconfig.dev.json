@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lwpea\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lwpea\\.nuget\\packages"
+    ]
+  }
+}

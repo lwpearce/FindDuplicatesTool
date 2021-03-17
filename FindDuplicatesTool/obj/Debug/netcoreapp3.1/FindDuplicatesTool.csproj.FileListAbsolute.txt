@@ -1,0 +1,13 @@
+C:\Users\lwpea\FindDuplicatesTool\FindDuplicatesTool\bin\Debug\netcoreapp3.1\FindDuplicatesTool.exe
+C:\Users\lwpea\FindDuplicatesTool\FindDuplicatesTool\bin\Debug\netcoreapp3.1\FindDuplicatesTool.deps.json
+C:\Users\lwpea\FindDuplicatesTool\FindDuplicatesTool\bin\Debug\netcoreapp3.1\FindDuplicatesTool.runtimeconfig.json
+C:\Users\lwpea\FindDuplicatesTool\FindDuplicatesTool\bin\Debug\netcoreapp3.1\FindDuplicatesTool.runtimeconfig.dev.json
+C:\Users\lwpea\FindDuplicatesTool\FindDuplicatesTool\bin\Debug\netcoreapp3.1\FindDuplicatesTool.dll
+C:\Users\lwpea\FindDuplicatesTool\FindDuplicatesTool\bin\Debug\netcoreapp3.1\FindDuplicatesTool.pdb
+C:\Users\lwpea\FindDuplicatesTool\FindDuplicatesTool\obj\Debug\netcoreapp3.1\FindDuplicatesTool.csprojAssemblyReference.cache
+C:\Users\lwpea\FindDuplicatesTool\FindDuplicatesTool\obj\Debug\netcoreapp3.1\FindDuplicatesTool.csproj.CoreCompileInputs.cache
+C:\Users\lwpea\FindDuplicatesTool\FindDuplicatesTool\obj\Debug\netcoreapp3.1\FindDuplicatesTool.AssemblyInfoInputs.cache
+C:\Users\lwpea\FindDuplicatesTool\FindDuplicatesTool\obj\Debug\netcoreapp3.1\FindDuplicatesTool.AssemblyInfo.cs
+C:\Users\lwpea\FindDuplicatesTool\FindDuplicatesTool\obj\Debug\netcoreapp3.1\FindDuplicatesTool.dll
+C:\Users\lwpea\FindDuplicatesTool\FindDuplicatesTool\obj\Debug\netcoreapp3.1\FindDuplicatesTool.pdb
+C:\Users\lwpea\FindDuplicatesTool\FindDuplicatesTool\obj\Debug\netcoreapp3.1\FindDuplicatesTool.genruntimeconfig.cache

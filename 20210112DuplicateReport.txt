@@ -1,0 +1,23 @@
+﻿DuplicatesReport 01/12/2021
+Finding Duplicates in: D
+These files are the same length: 
+   D:\Photos\1980's Photos\1988 - JP & Liz 2.jpg   1975337
+   D:\Photos\1980's Photos\1988 - Jp & Liz.jpg   1975337
+These files are the same length: 
+   D:\Photos\1997 Photos\1997 03 Mar\1997-03-30 Easter with Whitneys - carly liz.jpg   149790
+   D:\Photos\1997 Photos\1997 03 Mar\1997-03-30 Easter with Whitneys - shelly.jpg   149790
+These files are the same length: 
+   D:\Photos\1998 Photos\1998 02 Feb\1998-02-01 burping Mandy.jpg   113448
+   D:\Photos\1998 Photos\1998 02 Feb\1998-02-01 Pics for Mandy's baby announcement - shelly carly mandy for announcement (8).jpg   113448
+D:\Home Videos\1994 Home Videos
+D:\Home Videos\1995 Home Videos
+D:\Home Videos\1996 Home Videos
+D:\Home Videos\1997 Home Videos
+D:\Home Videos\1998 Home Videos
+D:\Home Videos\2004 Home Videos
+D:\Home Videos\2006 Home Videos
+D:\Home Videos\2007 Home Videos
+D:\Home Videos\2008 Home Videos
+D:\Home Videos\2009 Home Videos
+D:\Home Videos\2012 Home Videos
+D:\Home Videos\2015 Home Videos
